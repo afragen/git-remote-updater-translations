@@ -1,6 +1,6 @@
 # Git Remote Updater Translations
 
-**Official Language Pack Repository for Git Remote Updater Additions plugin**
+**Official Language Pack Repository for Git Remote Updater plugin**
 
 Translators, please make PRs here. You only need to submit PRs for the .po files, .mo files will be generated automatically. Please add the .po files to the `languages` folder. Thanks.
 
