@@ -1,119 +1,119 @@
-# Translation of Git Remote Updater in Chinese (Taiwan)
+# Translation of Git Remote Updater in Arabic
 # This file is distributed under the same license as the Git Remote Updater package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-15 16:19:55+0000\n"
+"PO-Revision-Date: +0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
 "X-Generator: GlotPress/4.0.1\n"
-"Language: zh_TW\n"
+"Language: ar\n"
 "Project-Id-Version: Git Remote Updater\n"
 
 #: src/Git_Remote_Updater/Site_List_Table.php:240
 msgid "Items would go to edit when we write that code."
-msgstr "當我們撰寫程式碼時，會編輯相關項目。"
+msgstr ""
 
 #: src/Git_Remote_Updater/Site_List_Table.php:209
 msgid "Delete"
-msgstr "刪除"
+msgstr ""
 
 #: src/Git_Remote_Updater/Settings_Row.php:93
 msgid "Sites"
-msgstr "網站"
+msgstr ""
 
 #: src/Git_Remote_Updater/Settings_Row.php:91
 msgid "Repository"
-msgstr "存放庫"
+msgstr ""
 
 #: src/Git_Remote_Updater/Settings_Row.php:58
 #: src/Git_Remote_Updater/Settings_Row.php:95
 msgid "Action"
-msgstr "可用操作"
+msgstr ""
 
 #: src/Git_Remote_Updater/Settings_Row.php:56
 msgid "Repositories"
-msgstr "存放庫"
+msgstr ""
 
 #: src/Git_Remote_Updater/Settings_Row.php:54
 #: src/Git_Remote_Updater/Site_List_Table.php:163
 msgid "Site"
-msgstr "網站"
+msgstr ""
 
 #: src/Git_Remote_Updater/Settings_Row.php:42
 msgid "Please add a site config to your Settings."
-msgstr "請將網站組態新增至設定中。"
+msgstr ""
 
 #: src/Git_Remote_Updater/Settings.php:248
 msgid "URI is case sensitive."
-msgstr "URI 為區分大小寫。"
+msgstr ""
 
 #: src/Git_Remote_Updater/Settings.php:232
 #: src/Git_Remote_Updater/Site_List_Table.php:164
 msgid "REST API key"
-msgstr "REST API 金鑰"
+msgstr ""
 
 #: src/Git_Remote_Updater/Settings.php:224
 msgid "Site URL"
-msgstr "網站網址"
+msgstr ""
 
 #: src/Git_Remote_Updater/Settings.php:217
 msgid "Add Site Data"
-msgstr "新增網站資料"
+msgstr ""
 
 #: src/Git_Remote_Updater/Settings.php:96
 msgid "Add Site"
-msgstr "新增網站"
+msgstr ""
 
 #: src/Git_Remote_Updater/Settings.php:66
 #: src/Git_Remote_Updater/Settings.php:67
 #: src/Git_Remote_Updater/Site_List_Table.php:392
 msgid "Settings"
-msgstr "設定"
+msgstr ""
 
 #: src/Git_Remote_Updater/Settings.php:57
 #: src/Git_Remote_Updater/Settings.php:58
 #: src/Git_Remote_Updater/Settings_Row.php:77
 #: src/Git_Remote_Updater/Settings_Row.php:116
 msgid "Update"
-msgstr "更新"
+msgstr ""
 
 #: src/Git_Remote_Updater/Settings.php:47
 msgctxt "Menu item"
 msgid "Git Remote Updater"
-msgstr "Git Remote Updater"
+msgstr ""
 
 #: src/Git_Remote_Updater/Actions.php:81
 msgid "Show Sites"
-msgstr "顯示網站"
+msgstr ""
 
 #: src/Git_Remote_Updater/Actions.php:80
 msgid "Show Repositories"
-msgstr "顯示存放庫"
+msgstr ""
 
 #: src/Git_Remote_Updater/Actions.php:63
 msgid "Update Feedback"
-msgstr "更新意見反應"
+msgstr ""
 
 #. Author URI of the plugin
 msgid "https://github.com/afragen"
-msgstr "https://github.com/afragen/github-updater"
+msgstr ""
 
 #. Author of the plugin
 msgid "Andy Fragen"
-msgstr "Andy Fragen"
+msgstr ""
 
 #. Description of the plugin
 msgid "Allows you to easily update Git Updater repositories in bulk via REST API endpoint updating. Requires Git Updater PRO."
-msgstr "這個外掛能讓網站管理員透過 REST API 端點更新機制，輕鬆批次更新 Git Updater 的存放庫，必須搭配 Git Updater PRO。"
+msgstr ""
 
 #. Plugin URI of the plugin
 msgid "https://github.com/afragen/git-remote-updater"
-msgstr "https://github.com/afragen/git-remote-updater"
+msgstr ""
 
 #. Plugin Name of the plugin
 #: src/Git_Remote_Updater/Settings.php:46
 #: src/Git_Remote_Updater/Settings.php:84
 msgid "Git Remote Updater"
-msgstr "Git Remote Updater"
+msgstr ""
